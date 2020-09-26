@@ -1,0 +1,22 @@
+p{
+    margin: 5px 0 0 0;
+    padding: 0px;
+}
+.TodoItem{
+    display: flex;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    border-bottom: 1px solid #bebebe;
+    color: #4d4d4d;
+    margin: 20px;
+}
+.isComplete{
+    text-decoration: line-through;
+    color: #AAA;
+}
+.imgcheck{
+    width: 35px;
+    height: 35px;
+    margin: 0 15px 15px 0;
+}
